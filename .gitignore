@@ -1,0 +1,9 @@
+# ide files
+/.idea
+/.vscode
+
+# _pycache__
+**/__pycache__
+
+# venv
+/venv
